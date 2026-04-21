@@ -1,12 +1,12 @@
 {
-  "export_job_id": "24f4428d-f66e-45b6-945a-a1d47532a4b0",
+  "export_job_id": "452e9a9a-77e0-4321-9db0-804ad041b26f",
   "id_short": 190803,
-  "published_at": "2026-04-17T19:03:43Z",
+  "published_at": "2026-04-21T19:08:47Z",
   "repo_name": "all-restaurants-in-sandy-springs-georgia-us-sample-190803",
   "sample_asset_name": "beamstation_190803_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/190803/beamstation_190803_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "2850c18b7b3bc31a1b2eccca49328514319aec051441ca1e737b25006ddb302b",
-  "sample_size_bytes": 129071,
-  "total_records": 296
+  "sample_records": 25,
+  "sample_sha256": "12724d99c97700315dbbc130d306422b2a187d2e426ec06298e7cb5721f013df",
+  "sample_size_bytes": 113076,
+  "total_records": 257
 }
