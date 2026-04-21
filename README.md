@@ -1,6 +1,6 @@
 # All Restaurants in Sandy Springs, Georgia, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `190803` |
 | Location | Sandy Springs |
 | Category | Restaurants |
-| Full dataset size | 296 records |
-| Free sample size | 29 records (9.8%) |
-| Last export | 2026-04-14T10:42:00.065906+00:00 |
+| Full dataset size | 257 records |
+| Free sample size | 25 records (9.73%) |
+| Last export | 2026-04-21T11:00:41.144529+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sandy-springs-georgia-us-sample-190803/releases/download/sample-latest/beamstation_190803_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
